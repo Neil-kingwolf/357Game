@@ -34,9 +34,9 @@
             // 
             // txtInfo
             // 
-            this.txtInfo.Location = new System.Drawing.Point(66, 182);
+            this.txtInfo.Location = new System.Drawing.Point(66, 66);
             this.txtInfo.Name = "txtInfo";
-            this.txtInfo.Size = new System.Drawing.Size(625, 197);
+            this.txtInfo.Size = new System.Drawing.Size(672, 372);
             this.txtInfo.TabIndex = 0;
             this.txtInfo.Text = "";
             // 
